@@ -1,2 +1,2 @@
 # NewGit-Project
-This is Demo project
+This is a Demo project
